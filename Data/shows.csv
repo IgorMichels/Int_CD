@@ -1,0 +1,463 @@
+,Title,Year,Age,IMDb,Rotten_Tomatoes,Streamings,Genre
+0,breaking bad,2008,18+,9.5,96,Netflix,"crime,drama,thriller"
+1,stranger things,2016,16+,8.8,93,Netflix,"horror,mystery,scifi,fantasy"
+2,sherlock,2010,16+,9.1,78,Netflix,"british,crime,international"
+3,better call saul,2015,18+,8.7,97,Netflix,"crime,comedy,drama"
+4,the office,2005,16+,8.9,81,Netflix,comedy
+5,black mirror,2011,18+,8.8,83,Netflix,"british,international,drama"
+6,supernatural,2005,16+,8.4,93,Netflix,"drama,suspense,horror"
+8,peaky blinders,2013,18+,8.8,92,Netflix,"british,crime,international"
+9,avatar: the last airbender,2005,7+,9.2,100,Netflix,"classic,cult,kid,action,adventure"
+10,the walking dead,2010,18+,8.2,81,Netflix,"classic,cult,action,adventure,drama"
+11,dark,2017,16+,8.7,94,Netflix,"crime,international,drama"
+12,ozark,2017,18+,8.4,81,Netflix,"crime,drama,thriller"
+13,attack on titan,2013,16+,8.8,94,Netflix,"anime,international"
+14,narcos,2015,18+,8.8,89,Netflix,"crime,action,adventure,drama"
+15,fullmetal alchemist: brotherhood,2009,18+,9.1,100,Netflix,"anime,international"
+16,community,2009,7+,8.5,88,Netflix,comedy
+17,mindhunter,2017,18+,8.6,96,Netflix,"crime,drama,mystery"
+18,parks and recreation,2009,16+,8.6,93,"Netflix,Prime",comedy
+20,dexter,2006,18+,8.6,72,Netflix,drama
+22,marvel's daredevil,2015,18+,8.6,92,Netflix,"crime,action,adventure"
+23,the witcher,2019,18+,8.3,67,Netflix,"action,adventure,drama,mystery"
+24,twin peaks,1990,18+,8.8,89,Netflix,"classic,cult,crime,drama"
+25,one-punch man,2015,16+,8.8,100,Netflix,"anime,crime,international"
+26,outlander,2014,18+,8.4,91,Netflix,"romantic,action,adventure,drama"
+27,house of cards,2013,18+,8.7,78,Netflix,"drama,thriller"
+28,shameless,2011,18+,8.6,85,Netflix,"comedy,drama"
+29,the good place,2016,16+,8.2,97,Netflix,comedy
+30,the blacklist,2013,16+,8.0,91,Netflix,"crime,drama,thriller"
+31,the flash,2014,7+,7.7,89,Netflix,"crime,action,adventure,scifi,fantasy"
+32,the last kingdom,2015,18+,8.4,91,Netflix,"british,international,action,adventure"
+33,mad men,2007,16+,8.6,94,Netflix,drama
+35,lucifer,2016,16+,8.2,87,Netflix,"crime,comedy,drama"
+36,orange is the new black,2013,18+,8.1,90,Netflix,"comedy,drama"
+37,grey's anatomy,2005,16+,7.6,83,Netflix,drama
+39,the end of the f***ing world,2017,18+,8.1,93,Netflix,"british,international,comedy"
+40,arrested development,2003,16+,8.7,75,Netflix,comedy
+41,the vampire diaries,2009,7+,7.7,85,Netflix,"drama,horror,romance,suspense"
+43,the crown,2016,18+,8.7,89,Netflix,"british,international,drama"
+44,the 100,2014,16+,7.7,92,Netflix,"action,adventure,drama,scifi,fantasy"
+45,when they see us,2019,18+,8.9,96,Netflix,"crime,drama"
+46,how to get away with murder,2014,16+,8.1,88,Netflix,"crime,drama,mystery"
+47,after life,2019,18+,8.5,70,Netflix,"british,international,comedy"
+48,elite,2018,18+,7.6,97,Netflix,"crime,international,spanish"
+49,bojack horseman,2014,18+,8.7,93,Netflix,comedy
+50,never have i ever,2020,16+,8.0,97,Netflix,"comedy,drama,teen"
+51,penny dreadful,2014,18+,8.2,91,Netflix,"drama,horror"
+53,marvel's agents of s.h.i.e.l.d.,2013,16+,7.5,94,Netflix,"action,adventure,scifi,fantasy"
+54,dead to me,2019,18+,8.1,91,Netflix,"comedy,drama"
+55,unorthodox,2020,18+,8.1,94,Netflix,"international,drama"
+56,sense8,2015,18+,8.3,86,Netflix,"crime,drama,mystery"
+57,sacred games,2018,18+,8.7,92,Netflix,"crime,international,drama"
+58,unbelievable,2019,18+,8.4,97,Netflix,"crime,drama"
+59,arrow,2012,16+,7.6,85,Netflix,"crime,action,adventure"
+60,the it crowd,2006,16+,8.5,87,Netflix,"british,classic,cult,international"
+61,you,2018,18+,7.8,91,Netflix,"crime,romantic,drama"
+62,sex education,2019,16+,8.3,94,Netflix,"british,international,comedy"
+63,star trek: the next generation,1987,7+,8.6,89,"Netflix,Prime","action,adventure,scifi,fantasy"
+64,broadchurch,2013,18+,8.4,92,Netflix,"british,crime,international"
+65,kingdom,2019,18+,8.4,96,Netflix,drama
+66,altered carbon,2018,18+,8.1,64,Netflix,"crime,action,adventure,drama"
+67,the sinner,2017,16+,8.0,95,Netflix,"crime,drama,mystery"
+68,marvel's jessica jones,2015,18+,8.0,83,Netflix,"crime,action,adventure,drama"
+69,new girl,2011,16+,7.7,94,Netflix,"romantic,comedy"
+70,the good wife,2009,16+,8.3,94,"Netflix,Prime",drama
+71,the umbrella academy,2019,16+,7.9,77,Netflix,"action,adventure,mystery,scifi,fantasy"
+72,marvel's the punisher,2017,18+,8.5,63,Netflix,"crime,action,adventure,thriller"
+73,master of none,2015,18+,8.3,100,Netflix,comedy
+74,bodyguard,2018,18+,8.1,93,Netflix,"action,adventure,comedy,international"
+75,schitt's creek,2015,16+,8.4,50,"Netflix,Prime",comedy
+76,narcos: mexico,2018,18+,8.4,88,Netflix,"crime,action,adventure,drama"
+77,the west wing,1999,16+,8.8,75,Netflix,drama
+78,bates motel,2013,18+,8.2,93,Netflix,"drama,horror,suspense"
+80,atypical,2017,18+,8.3,87,Netflix,"comedy,drama,teen"
+81,once upon a time,2011,7+,7.7,80,Netflix,"international,romantic,drama"
+82,gomorrah,2014,18+,8.7,94,Netflix,"crime,international,drama"
+83,making a murderer,2015,16+,8.6,84,Netflix,"crime,documentary"
+84,castlevania,2017,18+,8.2,93,Netflix,"anime,horror,thriller"
+85,riverdale,2017,16+,7.0,86,Netflix,"crime,drama,mystery"
+86,fauda,2015,16+,8.3,100,Netflix,"crime,international,action,adventure"
+87,russian doll,2019,18+,7.9,96,Netflix,"comedy,drama"
+88,our planet,2019,7+,9.3,93,Netflix,"documentary,science,nature"
+89,big mouth,2017,18+,8.0,100,Netflix,comedy
+90,gotham,2014,16+,7.8,77,Netflix,"crime,action,adventure,drama"
+91,i am not okay with this,2020,18+,7.6,85,Netflix,"comedy,drama,scifi,fantasy"
+92,star trek,1966,7+,8.3,80,"Netflix,Prime","classic,cult,action,adventure,scifi,fantasy"
+93,the oa,2016,16+,7.9,84,Netflix,"drama,mystery,scifi,fantasy"
+94,outer banks,2020,18+,7.6,72,Netflix,"action,adventure,drama,teen"
+95,the midnight gospel,2020,18+,8.4,90,Netflix,comedy
+96,good girls,2018,16+,7.9,87,Netflix,"crime,comedy,drama"
+97,chilling adventures of sabrina,2018,16+,7.6,84,Netflix,"horror,mystery,scifi,fantasy"
+98,doctor foster,2015,16+,7.7,85,Netflix,"british,international,romantic"
+99,gilmore girls,2000,16+,8.1,85,Netflix,"romantic,comedy,drama"
+100,izombie,2015,16+,7.9,91,Netflix,"comedy,drama,horror"
+101,anne with an e,2017,7+,8.6,62,Netflix,"international,drama,teen"
+102,a series of unfortunate events,2017,7+,7.8,96,Netflix,"kid,action,adventure,comedy"
+103,neon genesis evangelion,1995,16+,8.5,100,Netflix,"anime,international"
+104,into the badlands,2015,16+,8.0,83,Netflix,"drama,action,scifi"
+106,monty python's flying circus,1969,16+,8.8,100,Netflix,"british,classic,cult,international"
+107,jane the virgin,2014,7+,7.8,100,Netflix,"romantic,comedy,drama"
+108,halt and catch fire,2014,16+,8.4,90,Netflix,drama
+109,grace and frankie,2015,7+,8.3,89,Netflix,"comedy,drama"
+110,ncis,2003,16+,7.8,40,Netflix,"drama,action"
+112,weeds,2005,18+,7.9,70,Netflix,"comedy,drama"
+113,glow,2017,18+,8.0,93,Netflix,"comedy,drama"
+114,13 reasons why,2017,18+,7.8,39,Netflix,"crime,drama,mystery"
+115,godless,2017,16+,8.3,85,Netflix,drama
+116,locked up,2015,16+,8.3,100,Netflix,"crime,international,spanish"
+117,gossip girl,2008,16+,7.4,84,Netflix,"drama,teen"
+118,unbreakable kimmy schmidt,2015,16+,7.6,96,Netflix,comedy
+119,lost in space,2018,7+,7.3,75,Netflix,"action,adventure,drama,scifi,fantasy"
+120,scandal,2012,16+,7.7,93,Netflix,"crime,drama"
+121,one day at a time,2017,7+,8.2,99,Netflix,comedy
+122,dc's legends of tomorrow,2016,16+,6.8,87,Netflix,"action,adventure,scifi,fantasy"
+123,manhunt,2017,16+,8.1,93,Netflix,"action,adventure,international"
+124,charmed,1998,16+,7.1,75,Netflix,"drama,scifi,fantasy"
+125,the dragon prince,2018,7+,8.4,100,Netflix,"kid,action,adventure,scifi,fantasy"
+126,locke & key,2020,16+,7.4,67,Netflix,"action,adventure,drama,mystery"
+127,alias grace,2017,18+,7.8,99,Netflix,"crime,international,drama"
+128,american vandal,2017,16+,8.2,97,Netflix,"crime,comedy,teen"
+129,santa clarita diet,2017,18+,7.8,89,Netflix,"comedy,horror,thriller"
+130,maniac,2018,16+,7.8,85,Netflix,"comedy,drama,mystery"
+131,star trek: deep space nine,1993,7+,7.9,90,"Netflix,Prime","action,adventure,scifi,fantasy"
+132,the dark crystal: age of resistance,2019,7+,8.5,87,Netflix,"action,adventure,drama,scifi,fantasy"
+133,colony,2016,16+,7.4,92,Netflix,"action,adventure,drama,scifi,fantasy"
+134,wild wild country,2018,16+,8.2,98,Netflix,"crime,documentary"
+135,rectify,2013,16+,8.3,95,Netflix,"crime,drama,mystery"
+136,pose,2018,16+,8.6,96,Netflix,drama
+137,marvel's luke cage,2016,18+,7.3,87,Netflix,"crime,action,adventure,drama"
+138,hollywood,2020,18+,7.7,57,Netflix,drama
+139,derry girls,2018,16+,8.4,97,Netflix,"british,international,comedy"
+140,dark matter,2015,18+,7.5,89,Netflix,"scifi,fantasy,thriller"
+141,on my block,2018,16+,8.1,97,Netflix,"romantic,comedy,drama"
+142,longmire,2012,16+,8.3,88,Netflix,"crime,drama"
+143,the tudors,2007,18+,8.1,69,Netflix,drama
+144,happy!,2017,18+,8.2,84,Netflix,"crime,action,adventure,comedy"
+145,the stranger,2020,16+,7.3,89,Netflix,"crime,drama,mystery"
+146,call the midwife,2012,7+,8.4,89,Netflix,"british,international,drama"
+147,into the night,2020,18+,7.2,83,Netflix,"international,drama,mystery"
+148,mystery science theater 3000,1988,7+,8.5,80,Netflix,"comedy,scifi,fantasy"
+149,the inbetweeners,2008,18+,8.4,54,Netflix,"british,comedy"
+150,reign,2013,16+,7.5,86,Netflix,drama
+152,extras,2005,16+,8.3,89,"Netflix,Prime","british,comedy"
+153,the kominsky method,2018,18+,8.2,90,Netflix,"comedy,drama"
+154,the 4400,2004,7+,7.3,95,Netflix,"drama,mystery,scifi,fantasy"
+155,the borgias,2011,18+,7.9,85,Netflix,drama
+156,marco polo,2014,18+,8.0,67,Netflix,"action,adventure,drama"
+157,queer eye,2018,16+,8.5,91,Netflix,reality
+158,the spy,2019,18+,7.9,86,Netflix,"international,drama,thriller"
+159,love,2016,18+,7.7,94,Netflix,"romantic,comedy,drama"
+160,designated survivor,2016,7+,7.5,71,Netflix,"crime,drama,thriller"
+161,ripper street,2012,18+,8.1,100,Netflix,"british,crime,drama"
+162,hell on wheels,2011,16+,8.3,72,Netflix,"crime,action,adventure"
+163,the fosters,2013,16+,7.9,97,Netflix,drama
+164,marvel's the defenders,2017,18+,7.3,78,Netflix,"crime,action,adventure,drama"
+165,supergirl,2015,7+,6.3,88,Netflix,"action,adventure,scifi,fantasy"
+166,star trek: voyager,1995,7+,7.8,77,"Netflix,Prime","action,adventure,scifi,fantasy"
+167,limitless,2015,16+,7.7,57,Netflix,"documentary,international,sport"
+168,messiah,2020,18+,7.7,44,Netflix,"drama,thriller"
+169,the shannara chronicles,2016,16+,7.2,77,Netflix,"action,adventure,drama,scifi,fantasy"
+170,top boy,2011,18+,8.4,95,Netflix,"british,crime,international"
+171,jonathan strange & mr norrell,2015,16+,8.2,91,Netflix,"british,drama,scifi,fantasy"
+172,haven,2010,16+,7.5,63,Netflix,"classic,cult,horror,mystery"
+173,queen of the south,2016,16+,7.9,66,Netflix,"crime,action,adventure,drama"
+174,hart of dixie,2011,7+,7.7,81,Netflix,"comedy,drama"
+175,bloodline,2015,18+,8.0,62,Netflix,"drama,mystery,thriller"
+176,middleditch & schwartz,2020,18+,8.7,100,Netflix,comedy
+177,dirty money,2018,16+,8.1,100,Netflix,"crime,documentary"
+178,don't f**k with cats: hunting an internet killer,2019,18+,8.1,67,Netflix,"crime,documentary"
+179,chef's table,2015,all,8.6,100,Netflix,"documentary,reality"
+180,turn: washington's spies,2014,16+,8.1,81,Netflix,drama
+181,crazy ex-girlfriend,2015,16+,7.8,98,Netflix,"romantic,comedy"
+182,soul eater,2008,16+,7.8,100,Netflix,"anime,international"
+183,lost girl,2010,16+,7.7,65,Netflix,"drama,horror,mystery"
+184,wynonna earp,2016,16+,7.4,93,Netflix,"international,action,adventure,drama"
+185,galavant,2015,7+,8.1,89,Netflix,"action,adventure,comedy"
+186,hilda,2018,7+,8.6,100,Netflix,kid
+187,the originals,2013,16+,8.2,27,Netflix,"drama,horror,fantasy"
+189,episodes,2011,18+,7.8,80,Netflix,"classic,cult,comedy"
+190,living with yourself,2019,18+,7.2,84,Netflix,"comedy,drama"
+191,f is for family,2015,18+,8.0,86,Netflix,comedy
+192,the keepers,2017,16+,8.1,96,Netflix,"crime,documentary,mystery"
+193,cheer,2020,16+,8.2,96,Netflix,"documentary,reality,teen"
+194,disenchantment,2018,16+,7.2,68,Netflix,"action,adventure,comedy,scifi,fantasy"
+195,dead set,2008,18+,7.7,90,Netflix,"british,horror,thriller"
+196,nurse jackie,2009,18+,7.7,81,Netflix,"comedy,drama"
+197,imposters,2017,16+,7.8,100,Netflix,"crime,international,comedy"
+198,heartland,2007,7+,8.4,45,"Netflix,Prime",drama
+199,the staircase,2005,16+,7.9,93,Netflix,"crime,documentary,mystery"
+200,madam secretary,2014,16+,7.6,68,Netflix,drama
+202,chewing gum,2015,16+,7.7,100,Netflix,"british,international,romantic"
+203,glee,2009,16+,6.7,71,Netflix,"comedy,drama,teen"
+204,the order,2019,18+,6.9,100,Netflix,"international,drama,horror"
+205,helix,2014,16+,6.8,81,Netflix,"horror,mystery,scifi,fantasy"
+206,safe,2018,18+,7.3,77,Netflix,"british,crime,international"
+207,evil genius,2018,18+,7.6,80,Netflix,"crime,documentary,mystery"
+208,marvel's iron fist,2017,18+,6.5,37,Netflix,"crime,action,adventure,drama"
+209,lilyhammer,2012,18+,8.0,65,Netflix,"crime,comedy,drama"
+210,voltron: legendary defender,2016,7+,8.1,100,Netflix,kid
+211,marianne,2019,18+,7.5,93,Netflix,"international,drama,horror"
+212,star trek: enterprise,2001,7+,7.5,50,"Netflix,Prime","classic,cult,action,adventure,scifi,fantasy"
+213,portlandia,2011,16+,7.8,94,Netflix,comedy
+214,five came back,2017,16+,8.3,97,Netflix,documentary
+215,american crime,2015,16+,7.8,97,Netflix,"crime,drama"
+216,glitch,2015,16+,7.4,80,Netflix,"international,drama,horror"
+217,ghoul,2018,18+,7.1,83,Netflix,"international,drama,horror"
+218,the society,2019,18+,7.0,85,Netflix,"drama,teen"
+219,dracula,2020,18+,6.8,74,Netflix,"british,international,drama"
+220,quantico,2015,16+,6.7,82,Netflix,"crime,drama,mystery"
+221,she-ra and the princesses of power,2018,all,7.3,97,Netflix,"kid,action,adventure,scifi,fantasy"
+222,versailles,2015,16+,7.9,66,Netflix,"international,drama"
+223,the mechanism,2018,16+,8.4,80,Netflix,"crime,international,drama"
+224,everything sucks!,2018,16+,7.5,72,Netflix,"comedy,drama,teen"
+225,raising dion,2019,7+,7.2,82,Netflix,"kid,action,adventure,drama"
+226,all american,2018,16+,7.7,96,Netflix,"drama,sport"
+228,the rain,2018,18+,6.3,82,Netflix,"international,drama,mystery"
+229,last tango in halifax,2012,16+,8.3,98,Netflix,"british,romantic,drama"
+230,star-crossed,2014,16+,7.3,57,Netflix,"romantic,drama,scifi,fantasy"
+231,the politician,2019,16+,7.5,57,Netflix,"comedy,drama,teen"
+232,documentary now!,2015,18+,8.1,94,Netflix,comedy
+233,baby,2018,18+,6.8,80,Netflix,"international,drama,teen"
+234,secret city,2016,16+,7.4,100,Netflix,"international,drama,mystery"
+235,abstract: the art of design,2017,16+,8.4,100,Netflix,documentary
+236,shooter,2016,16+,7.5,44,Netflix,"crime,action,adventure,drama"
+237,marcella,2016,18+,7.4,65,Netflix,"british,crime,international"
+238,the chef show,2019,18+,8.2,100,Netflix,documentary
+239,the circle,2020,18+,7.5,80,Netflix,reality
+240,the devil next door,2019,18+,7.6,91,Netflix,"crime,documentary"
+241,the hollow,2018,7+,7.2,100,Netflix,"kid,thriller"
+242,frontier,2016,18+,7.2,75,Netflix,"international,action,adventure,drama"
+243,frequency,2016,7+,7.5,77,Netflix,"crime,drama,mystery"
+244,beauty and the beast,2012,16+,7.0,51,"Netflix,Prime","drama,scifi"
+246,hyperdrive,2019,7+,8.1,100,Netflix,reality
+247,time: the kalief browder story,2017,16+,8.5,100,Netflix,documentary
+248,the toys that made us,2017,16+,8.1,100,Netflix,"documentary,reality"
+249,seven seconds,2018,18+,7.7,77,Netflix,"crime,drama"
+250,spinning out,2020,18+,7.7,63,Netflix,drama
+251,killer inside: the mind of aaron hernandez,2020,18+,7.4,75,Netflix,"crime,documentary"
+252,london spy,2015,18+,7.5,86,Netflix,"british,crime,international"
+253,containment,2016,16+,7.2,50,Netflix,"drama,thriller"
+254,black lightning,2018,16+,6.1,95,Netflix,"action,adventure,drama,scifi,fantasy"
+255,derek,2013,16+,8.0,68,Netflix,"british,international,comedy"
+256,last chance u,2016,16+,8.5,93,Netflix,documentary
+257,mars,2016,7+,7.5,61,Netflix,"documentary,science,nature,drama"
+258,love is blind,2020,7+,6.0,73,Netflix,"drama,independent,romantic"
+259,3%,2016,7+,7.4,33,Netflix,"international,drama,scifi,fantasy"
+260,zoo,2015,16+,6.8,82,Netflix,"drama,independent,international"
+261,daybreak,2019,18+,6.7,70,Netflix,"action,adventure,comedy,horror"
+262,hemlock grove,2013,18+,7.1,38,Netflix,"horror,mystery,thriller"
+263,private practice,2007,16+,6.6,51,Netflix,"comedy,drama"
+264,insatiable,2018,16+,6.6,11,Netflix,"comedy,drama,teen"
+265,no tomorrow,2016,7+,7.2,88,Netflix,"romantic,comedy,drama"
+266,surviving r. kelly,2019,18+,7.6,95,Netflix,"crime,documentary"
+267,easy,2016,18+,6.9,90,Netflix,"comedy,drama"
+268,self made: inspired by the life of madam c.j. walker,2020,16+,7.4,77,Netflix,drama
+269,knightfall,2017,16+,6.8,60,Netflix,drama
+270,carmen sandiego,2019,7+,7.9,93,Netflix,"kid,thriller"
+271,inside bill's brain: decoding bill gates,2019,16+,8.0,50,Netflix,"documentary,science,nature"
+272,flint town,2018,18+,8.0,95,Netflix,"documentary,science,nature"
+273,rake,2010,16+,8.6,100,"Netflix,Prime","crime,international,comedy"
+274,rilakkuma and kaoru,2019,7+,8.4,100,Netflix,"anime,international"
+275,the frankenstein chronicles,2015,16+,7.3,78,Netflix,"british,crime,international"
+276,wu assassins,2019,18+,6.4,83,Netflix,"action,adventure,scifi,fantasy"
+277,collateral,2018,7+,6.7,78,Netflix,"british,crime,international"
+278,1983,2018,18+,6.8,100,Netflix,"crime,international,drama"
+279,november 13: attack on paris,2018,18+,8.3,100,Netflix,"crime,documentary,international"
+280,the confession tapes,2017,16+,7.5,100,Netflix,"crime,documentary"
+281,bad blood,2017,18+,7.5,80,Netflix,"crime,drama"
+282,the trials of gabriel fernandez,2020,18+,8.2,80,Netflix,"crime,documentary"
+283,ugly delicious,2018,18+,7.8,100,Netflix,documentary
+284,the night shift,2014,16+,7.4,30,Netflix,drama
+285,aquarius,2015,16+,7.1,77,Netflix,"crime,drama"
+286,black summer,2019,18+,6.4,75,Netflix,"action,adventure,drama,horror"
+287,bonding,2019,16+,7.2,64,Netflix,"comedy,drama"
+288,young & hungry,2014,16+,7.4,60,Netflix,comedy
+289,i'm sorry,2017,7+,7.9,75,Netflix,comedy
+290,the chalet,2018,18+,7.0,100,Netflix,"crime,international,drama"
+291,my next guest needs no introduction with david letterman,2018,18+,7.9,83,Netflix,"standup,comedy,talk"
+292,the confession killer,2019,16+,7.4,100,Netflix,"crime,documentary"
+293,bordertown,2016,7+,7.6,39,Netflix,"crime,international,drama"
+294,battle creek,2015,16+,7.3,96,Netflix,"crime,comedy,drama"
+295,special,2019,18+,7.6,95,Netflix,comedy
+296,3below: tales of arcadia,2018,7+,7.8,100,Netflix,"kid,action,adventure,scifi,fantasy"
+297,mystery science theater 3000: the return,2017,16+,8.0,100,Netflix,"comedy,scifi,fantasy"
+298,dear white people,2017,16+,6.2,95,Netflix,"comedy,drama"
+299,white gold,2017,18+,7.4,88,Netflix,"british,international,comedy"
+300,dirty john,2018,16+,7.1,71,Netflix,"crime,drama,mystery"
+301,it's bruno!,2019,7+,7.5,100,Netflix,comedy
+302,gentefied,2020,16+,7.3,88,Netflix,"comedy,drama"
+303,the curious creations of christine mcconnell,2018,7+,7.7,100,Netflix,"comedy,mystery"
+304,trinkets,2019,7+,7.1,50,Netflix,"drama,teen"
+305,fuller house,2016,7+,6.8,28,Netflix,comedy
+306,dark tourist,2018,18+,7.6,70,Netflix,"documentary,international"
+307,great news,2017,7+,7.0,84,Netflix,comedy
+308,friends from college,2017,18+,6.8,24,Netflix,"romantic,comedy"
+309,wormwood,2017,16+,7.0,92,Netflix,"crime,documentary"
+310,watership down,2018,7+,7.2,77,Netflix,"british,international,action,adventure"
+311,gypsy,2017,18+,6.9,38,Netflix,drama
+312,the innocent man,2018,18+,7.4,73,Netflix,"crime,documentary"
+313,tuca & bertie,2019,16+,7.4,100,Netflix,comedy
+314,lovesick,2014,18+,8.1,36,Netflix,"international,romantic,drama"
+315,mr. iglesias,2019,16+,7.1,88,Netflix,"comedy,teen"
+316,hot girls wanted: turned on,2017,18+,6.7,100,Netflix,documentary
+317,cleverman,2016,16+,6.4,86,Netflix,"drama,scifi,fantasy,thriller"
+318,taken,2017,16+,6.6,32,Netflix,"drama,action"
+320,paradise pd,2018,18+,7.0,40,Netflix,comedy
+321,the messengers,2015,16+,6.5,47,Netflix,"drama,mystery,scifi,fantasy"
+322,damnation,2017,18+,7.7,64,Netflix,"crime,drama"
+323,jericho,2006,16+,7.2,54,Netflix,"classic,cult,action,adventure,drama"
+324,american odyssey,2015,16+,7.3,54,Netflix,"drama,thriller"
+325,rhythm + flow,2019,18+,7.6,92,Netflix,reality
+326,carole & tuesday,2019,7+,7.9,100,Netflix,"anime,international,teen"
+327,seis manos,2019,18+,7.3,100,Netflix,"anime,crime"
+328,lady dynamite,2016,16+,7.4,97,Netflix,comedy
+329,the eddy,2020,18+,7.0,68,Netflix,"international,drama"
+330,the letter for the king,2020,7+,5.9,58,Netflix,"british,international,action,adventure"
+331,diagnosis,2019,18+,7.8,100,Netflix,"documentary,science,nature"
+332,w/ bob & david,2015,18+,7.4,89,Netflix,comedy
+333,queen sono,2020,18+,5.8,100,Netflix,"international,action,adventure,drama"
+334,rotten,2018,18+,7.1,86,Netflix,"documentary,science,nature"
+335,requiem,2018,18+,6.5,75,Netflix,"british,international,drama"
+336,october faction,2020,18+,6.1,33,Netflix,"action,adventure,drama,horror"
+337,the new legends of monkey,2018,7+,6.5,100,Netflix,"kid,action,adventure,scifi,fantasy"
+338,bobby kennedy for president,2018,16+,8.2,95,Netflix,documentary
+339,the mist,2017,18+,5.4,62,Netflix,"drama,horror,mystery"
+340,the final table,2018,all,7.7,50,Netflix,reality
+341,the family,2019,16+,6.4,80,Netflix,"action,adventure,comedy"
+342,flaked,2016,18+,7.2,35,Netflix,"comedy,drama"
+343,dogs,2018,all,8.1,92,Netflix,documentary
+344,girlboss,2017,18+,7.0,36,Netflix,comedy
+345,nightflyers,2018,16+,5.9,35,Netflix,"horror,mystery,scifi,fantasy"
+346,how to fix a drug scandal,2020,18+,6.9,86,Netflix,"crime,documentary"
+347,sick note,2017,18+,6.8,50,Netflix,"british,international,comedy"
+348,typewriter,2019,18+,6.5,60,Netflix,"international,horror,mystery"
+349,i think you should leave with tim robinson,2019,18+,7.4,93,Netflix,comedy
+350,freud,2020,18+,6.6,50,Netflix,"crime,international,drama"
+351,between,2015,16+,6.0,22,Netflix,"international,drama,mystery"
+352,she's gotta have it,2017,18+,6.7,77,Netflix,"romantic,comedy,drama"
+353,the good cop,2018,16+,7.0,50,Netflix,"crime,comedy,drama"
+354,black earth rising,2018,16+,7.4,79,Netflix,"british,international,drama"
+355,tidying up with marie kondo,2019,7+,6.6,79,Netflix,reality
+356,the windsors,2016,18+,7.0,90,Netflix,"british,international,comedy"
+357,another life,2019,18+,4.9,6,Netflix,"action,adventure,drama,mystery"
+358,cooked with cannabis,2020,18+,6.9,80,Netflix,reality
+359,the joel mchale show with joel mchale,2018,18+,7.3,83,Netflix,"standup,comedy,talk,comedy"
+360,b: the beginning,2018,18+,7.2,50,Netflix,"anime,crime,international"
+361,selection day,2018,16+,7.3,33,Netflix,"international,drama,teen"
+362,wanderlust,2018,16+,7.0,73,Netflix,"british,international,romantic"
+363,fast & furious spy racers,2019,7+,5.2,80,Netflix,kid
+364,happyish,2015,18+,7.3,30,Netflix,"comedy,drama"
+365,chambers,2019,18+,6.5,41,Netflix,"horror,mystery,teen"
+366,white lines,2020,18+,6.2,58,Netflix,"british,crime,international"
+367,rebellion,2016,16+,7.1,40,Netflix,"international,drama"
+368,chelsea does,2016,18+,7.2,79,Netflix,"documentary,science,nature"
+369,life sentence,2018,16+,6.5,37,Netflix,drama
+371,disjointed,2017,18+,6.7,19,Netflix,comedy
+372,kantaro: the sweet tooth salaryman,2017,7+,7.6,100,Netflix,"international,comedy"
+373,dating around,2019,16+,6.4,92,Netflix,"reality,romantic"
+374,traitors,2019,18+,6.6,67,Netflix,"british,international,drama"
+375,trigger warning with killer mike,2019,16+,6.8,86,Netflix,"documentary,standup,comedy,talk"
+376,champions,2018,7+,6.0,63,Netflix,comedy
+377,haters back off,2016,7+,6.0,50,Netflix,"comedy,teen"
+378,no good nick,2019,7+,5.8,60,Netflix,"kid,comedy,drama"
+379,family reunion,2019,7+,6.3,67,Netflix,"kid,comedy"
+380,kiss me first,2018,18+,6.3,50,Netflix,"british,crime,international"
+381,the honeymoon stand up special,2018,16+,6.8,100,Netflix,"standup,comedy,talk,comedy"
+382,valor,2017,16+,5.9,22,Netflix,"action,adventure,drama"
+383,the i-land,2019,18+,4.5,8,Netflix,"action,adventure,drama,scifi,fantasy"
+384,neo yokio,2017,18+,5.8,77,Netflix,"comedy,scifi,fantasy,teen"
+385,brews brothers,2020,18+,4.8,38,Netflix,comedy
+386,marseille,2016,18+,6.8,33,Netflix,"international,drama,thriller"
+387,rapture,2018,18+,7.1,83,Netflix,documentary
+388,huge in france,2019,16+,6.8,50,Netflix,comedy
+389,bill nye saves the world,2017,7+,3.6,75,Netflix,"standup,comedy,talk"
+390,chelsea,2016,18+,6.1,41,Netflix,"standup,comedy,talk,comedy"
+391,powder,1995,13+,6.6,50,Netflix,"crime,international,drama"
+392,sid the science kid,2008,all,5.4,80,Netflix,kid
+393,behind enemy lines,2001,13+,6.4,37,Netflix,"british,documentary"
+394,the break with michelle wolf,2018,18+,5.2,81,Netflix,"standup,comedy,talk,comedy"
+395,prank encounters,2019,18+,5.0,40,Netflix,"reality,comedy,horror"
+396,the comedy lineup,2018,18+,5.7,100,Netflix,"standup,comedy,talk,comedy"
+397,pacific heat,2016,16+,5.7,17,Netflix,"crime,comedy"
+398,all about the washingtons,2018,all,4.2,40,Netflix,comedy
+399,westside,2018,16+,5.8,20,Netflix,reality
+400,the in-laws,2003,13+,5.7,34,Netflix,"international,drama"
+401,the simpsons,1989,7+,8.7,85,Disney,"animation,comedy"
+402,gravity falls,2012,7+,8.9,100,Disney,"animation,action,adventure,comedy,family,fantasy,mystery,scifi"
+403,mr. bean,1990,all,8.5,100,Prime,comedy
+404,blue bloods,2010,16+,7.5,91,Prime,drama
+405,marvel's runaways,2017,16+,7.0,87,Disney,"drama,scifi"
+406,house,2004,16+,8.7,90,Prime,drama
+407,mr. robot,2015,18+,8.5,94,Prime,"drama,suspense"
+408,suits,2011,16+,8.5,90,Prime,drama
+410,the boys,2019,18+,8.7,84,Prime,"action,comedy"
+411,fleabag,2016,18+,8.7,100,Prime,comedy
+412,bosch,2014,18+,8.4,97,Prime,drama
+413,the marvelous mrs. maisel,2017,18+,8.7,89,Prime,"drama,comedy"
+414,hannibal,2013,18+,8.5,92,Prime,"horror,mystery,thriller"
+415,luther,2010,16+,8.5,88,Prime,drama
+416,chuck,2007,7+,8.2,89,Prime,comedy
+417,psych,2006,7+,8.3,89,Prime,comedy
+418,the man in the high castle,2015,18+,8.0,84,Prime,"drama,suspense"
+419,tom clancy's jack ryan,2018,18+,8.1,71,Prime,"drama,action,suspense"
+420,good omens,2019,7+,8.1,84,Prime,"fantasy,comedy"
+421,teen wolf,2011,16+,7.6,81,Prime,action
+422,grimm,2011,16+,7.8,89,Prime,"drama,action,adventure"
+423,the night manager,2016,16+,8.1,91,Prime,"drama,suspense"
+424,the grand tour,2016,16+,8.7,66,Prime,sport
+425,californication,2007,18+,8.3,57,Prime,comedy
+426,homecoming,2018,16+,7.5,98,Prime,drama
+427,sneaky pete,2015,18+,8.2,96,Prime,drama
+428,undone,2019,18+,8.2,100,Prime,"animation,drama"
+429,the missing,2014,16+,8.2,93,Prime,drama
+431,carnival row,2019,18+,7.9,57,Prime,"drama,fantasy"
+432,goliath,2016,16+,8.2,82,Prime,drama
+433,tales from the loop,2020,16+,7.5,68,Prime,scifi
+434,modern love,2019,18+,8.0,75,Prime,"drama,romance,comedy"
+435,boss,2011,18+,8.1,81,Prime,"action,adventure,comedy,drama"
+436,mozart in the jungle,2014,18+,8.2,94,Prime,"drama,comedy"
+437,hanna,2019,16+,7.5,67,Prime,"drama,action"
+438,defiance,2013,18+,7.0,77,Prime,"action,adventure,drama"
+439,hunters,2020,18+,7.2,64,Prime,"drama,action,suspense"
+440,red oaks,2014,18+,7.9,93,Prime,comedy
+441,the tick,2016,18+,7.4,95,Prime,"comedy,action"
+442,patriot,2015,18+,8.3,90,Prime,"drama,suspense"
+443,house of lies,2012,18+,7.4,77,Prime,"drama,comedy"
+444,transparent,2014,18+,7.8,90,Prime,"drama,comedy,lgbtq"
+445,a very english scandal,2018,16+,7.7,95,Prime,drama
+446,extant,2014,16+,6.6,77,Prime,drama
+447,flesh and bone,2015,16+,8.0,62,Prime,"drama,lgbtq,art,entertainment,culture"
+448,absentia,2017,18+,7.3,50,Prime,"drama,suspense"
+449,too old to die young,2019,18+,7.4,69,Prime,drama
+450,howards end,2017,7+,7.3,90,Prime,"classic,drama,independent"
+451,conversations with a killer: the ted bundy tapes,2019,18+,7.8,54,Prime,"crime,documentary"
+452,forever,2018,18+,7.2,94,Prime,comedy
+453,good girls revolt,2015,7+,8.2,73,Prime,drama
+454,cold feet,1998,7+,8.2,82,Prime,"drama,international,romantic"
+455,hand of god,2014,18+,7.5,30,Prime,drama
+456,the last tycoon,2016,18+,7.7,46,Prime,drama
+457,the widow,2019,18+,6.9,59,Prime,"drama,suspense"
+458,lore,2017,16+,6.7,65,Prime,horror
+459,the romanoffs,2018,7+,7.0,50,Prime,drama
+460,i love dick,2016,18+,6.2,87,Prime,comedy
+461,falling water,2016,16+,6.5,26,Prime,"drama,scifi"
+462,crisis in six scenes,2016,7+,6.6,17,Prime,comedy
+463,undercover,2016,16+,6.8,75,Prime,"crime,international,action,adventure"
+464,the simple life,2003,16+,3.8,35,Prime,comedy
+465,the mandalorian,2019,7+,8.7,93,Disney,"action,adventure,scifi"
+466,star wars: the clone wars,2008,7+,8.2,93,Disney,"animation,action,adventure,drama,fantasy,scifi"
+468,star wars rebels,2014,7+,8.0,100,Disney,"animation,action,adventure,family,fantasy,mystery,scifi"
+469,ducktales,2017,7+,8.2,100,Disney,"animation,adventure,comedy,family"
+471,one strange rock,2018,all,8.8,83,Disney,"documentary,science,nature"
+473,the imagineering story,2019,7+,9.1,100,Disney,documentary
+474,lizzie mcguire,2001,all,6.6,100,Disney,"comedy,drama,family"
+476,wolverine and the x-men,2008,7+,8.0,67,Disney,"animation,action,adventure,drama,scifi"
+477,the world according to jeff goldblum,2019,7+,7.9,82,Disney,"documentary,comedy"
+478,the muppets,2015,7+,7.4,64,Disney,"children,family,comedy"
+480,star wars resistance,2018,7+,4.9,92,Disney,"animation,action,adventure,scifi"
+481,diary of a future president,2020,7+,5.5,100,Disney,"comedy,family"
+482,encore!,2019,7+,7.4,68,Disney,"musical,reality"
+483,spider-man unlimited,1999,7+,6.5,50,Disney,"action,family,adventure,animation,thriller,crime,scifi"
+484,the super hero squad show,2009,7+,6.1,50,Disney,"animation,action,comedy,family,scifi"
+485,marvel's hero project,2019,7+,6.1,92,Disney,documentary
